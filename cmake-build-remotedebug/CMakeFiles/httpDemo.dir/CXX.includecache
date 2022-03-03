@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/local/clion/httpDemo/main.cpp
+iostream
+-
+sstream
+-
+sys/socket.h
+-
+cstring
+-
+pthread.h
+-
+

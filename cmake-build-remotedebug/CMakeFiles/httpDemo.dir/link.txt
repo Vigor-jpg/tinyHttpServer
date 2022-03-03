@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/httpDemo.dir/Http/utils.cpp.o CMakeFiles/httpDemo.dir/Http/MyHttpServer.cpp.o CMakeFiles/httpDemo.dir/main.cpp.o  -o httpDemo 

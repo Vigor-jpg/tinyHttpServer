@@ -1,0 +1,3 @@
+/usr/local/clion/httpDemo/cmake-build-remotedebug/CMakeFiles/rebuild_cache.dir
+/usr/local/clion/httpDemo/cmake-build-remotedebug/CMakeFiles/httpDemo.dir
+/usr/local/clion/httpDemo/cmake-build-remotedebug/CMakeFiles/edit_cache.dir
